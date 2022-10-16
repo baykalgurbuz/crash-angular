@@ -17,18 +17,6 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30px",
       "reminder": false
-    },
-    {
-      "id": 4,
-      "text": "Football Matches  Appointment",
-      "day": "May 8th at 9:30px",
-      "reminder": false
-    },
-    {
-      "text": "Deneme",
-      "day": "deneme",
-      "reminder": true,
-      "id": 5
     }
   ]
 }
